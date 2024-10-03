@@ -1,0 +1,42 @@
+
+
+body{
+
+    background-color: #24353F;
+}
+
+
+
+.container{
+
+}
+
+
+.title{
+    background-color: #24353F;
+   border-: 2px;
+    width: 50%;
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+.title h1{
+    color: #17a2b8;
+
+
+}
+
+p{
+    color: greenyellow;
+}
+
+form #signUp{
+ 
+    transition: all 350ms !important;
+
+}
+
+form #signUp:hover{
+
+    background-color: black !important;
+    border-color: black !important;
+}

@@ -1,0 +1,26 @@
+
+
+
+body{
+    background-color: #24353F;
+}
+
+.text{
+    font-family: 'Times New Roman', Times, serif;
+  
+}
+
+main{
+   box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+.color{
+
+  background-color: #24353F;
+  padding: 30px;
+  box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+  color: 
+  rgb(23, 162, 184);
+
+ 
+}
